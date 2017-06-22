@@ -1,0 +1,6 @@
+.erlang.mk/
+ebin/
+timecall.d
+.timecall.plt
+doc/
+_rel/
